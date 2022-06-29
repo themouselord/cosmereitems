@@ -17,6 +17,7 @@ public class ModBlocks {
     public static final Block TIN_BLOCK = registerBlock("tin_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
 
+
     public static final Block PEWTER_BLOCK = registerBlock("pewter_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
 
