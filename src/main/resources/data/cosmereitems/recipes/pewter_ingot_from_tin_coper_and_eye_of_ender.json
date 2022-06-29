@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:tin_ingot"
+    },
+    "L": {
+      "item": "minecraft:ender_eye"
+    },
+    "R": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:pewter_ingot",
+    "count": 1
+  }
+}

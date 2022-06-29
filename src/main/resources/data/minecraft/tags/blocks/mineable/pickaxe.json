@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cosmereitems:tin_block",
+    "cosmereitems:pewter_block",
+    "cosmereitems:steel_block"
+  ]
+}

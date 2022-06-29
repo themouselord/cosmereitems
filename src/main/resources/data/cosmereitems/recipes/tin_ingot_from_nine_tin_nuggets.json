@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:tin_nugget"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:tin_ingot",
+    "count": 1
+  }
+}

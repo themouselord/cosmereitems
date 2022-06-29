@@ -1,0 +1,23 @@
+{
+  "item.cosmereitems.tin_ingot": "Tin Ingot",
+  "item.cosmereitems.pewter_ingot": "Pewter Ingot",
+  "item.cosmereitems.pewter_nugget": "Pewter Nugget",
+  "item.cosmereitems.tin_nugget": "Tin Nugget",
+  "item.cosmereitems.steel_ingot": "Steel Ingot",
+  "item.cosmereitems.steel_nugget": "Steel Nugget",
+  "item.cosmereitems.brass_ingot": "Brass Ingot",
+  "item.cosmereitems.bronze_ingot": "Bronze Ingot",
+  "item.cosmereitems.duralumin_ingot": "Duralumin Ingot",
+  "item.cosmereitems.aluminum_ingot": "Aluminum Ingot",
+  "item.cosmereitems.electrum_ingot": "Electrum Ingot",
+  "item.cosmereitems.nicrosil_ingot": "Nicrosil Ingot",
+  "item.cosmereitems.chromium_ingot": "Chromium Ingot",
+  "item.cosmereitems.cadmium_ingot": "Cadmium Ingot",
+  "item.cosmereitems.bendalloy_ingot": "Bendalloy Ingot",
+
+  "block.cosmereitems.steel_block": "Block Of Steel",
+  "block.cosmereitems.tin_block": "Block Of Tin",
+  "block.cosmereitems.pewter_block": "Block Of Pewter",
+
+  "itemGroup.cosmereitems.allomancy": "Allomancy"
+}

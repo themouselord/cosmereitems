@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:pewter_ingot"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:pewter_nugget",
+    "count": 9
+  }
+}
