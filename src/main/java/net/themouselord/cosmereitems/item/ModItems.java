@@ -90,6 +90,9 @@ public class ModItems {
     public static final Item ELECTRUM_NUGGET = registerItem("electrum_nugget",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
+    public static final Item IRON_BRACELET = registerItem("iron_bracelet",
+            new Item(new FabricItemSettings().group(ModItemGroup.FERUCHEMY)));
+
 
 
 

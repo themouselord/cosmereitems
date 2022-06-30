@@ -42,5 +42,10 @@
   "block.cosmereitems.cadmium_block": "Block Of Cadmium",
   "block.cosmereitems.bendalloy_block": "Block Of Bendalloy",
 
-  "itemGroup.cosmereitems.allomancy": "Allomancy"
+  "itemGroup.cosmereitems.allomancy": "Allomancy",
+  "itemGroup.cosmereitems.feruchemy": "Feruchemy",
+  "itemGroup.cosmereitems.hemalurgy": "Hemalurgy",
+  "itemGroup.cosmereitems.stormlight": "Stormlight",
+  "itemGroup.cosmereitems.awakening": "Awakening",
+  "itemGroup.cosmereitems.sel": "Sel"
 }
