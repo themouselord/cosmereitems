@@ -14,6 +14,18 @@
   "item.cosmereitems.chromium_ingot": "Chromium Ingot",
   "item.cosmereitems.cadmium_ingot": "Cadmium Ingot",
   "item.cosmereitems.bendalloy_ingot": "Bendalloy Ingot",
+  "item.cosmereitems.brass_nugget": "Brass Nugget",
+  "item.cosmereitems.bronze_nugget": "Bronze Nugget",
+  "item.cosmereitems.duralumin_nugget": "Duralumin Nugget",
+  "item.cosmereitems.aluminum_nugget": "Aluminum Nugget",
+  "item.cosmereitems.electrum_nugget": "Electrum Nugget",
+  "item.cosmereitems.nicrosil_nugget": "Nicrosil Nugget",
+  "item.cosmereitems.chromium_nugget": "Chromium Nugget",
+  "item.cosmereitems.cadmium_nugget": "Cadmium Nugget",
+  "item.cosmereitems.bendalloy_nugget": "Bendalloy Nugget",
+  "item.cosmereitems.zinc_nugget": "Zinc Nugget",
+  "item.cosmereitems.copper_nugget": "Copper Nugget",
+
 
   "block.cosmereitems.steel_block": "Block Of Steel",
   "block.cosmereitems.tin_block": "Block Of Tin",

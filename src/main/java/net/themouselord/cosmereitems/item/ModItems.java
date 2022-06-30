@@ -39,10 +39,10 @@ public class ModItems {
     public static final Item BENDALLOY_INGOT = registerItem("bendalloy_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
-    public static final Item STEEL_INGOT = registerItem("steel_ingot",
+    public static final Item BRONZE_INGOT = registerItem("bronze_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
-    public static final Item BRONZE_INGOT = registerItem("bronze_ingot",
+    public static final Item STEEL_INGOT = registerItem("steel_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
     public static final Item ELECTRUM_INGOT = registerItem("electrum_ingot",
@@ -57,7 +57,37 @@ public class ModItems {
     public static final Item ZINC_NUGGET = registerItem("zinc_nugget",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
+    public static final Item BRASS_NUGGET = registerItem("brass_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item ALUMINUM_NUGGET = registerItem("aluminum_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item DURALUMIN_NUGGET = registerItem("duralumin_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item NICROSIL_NUGGET = registerItem("nicrosil_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item CHROMIUM_NUGGET = registerItem("chromium_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item CADMIUM_NUGGET = registerItem("cadmium_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item BENDALLOY_NUGGET = registerItem("bendalloy_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item BRONZE_NUGGET = registerItem("bronze_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item COPPER_NUGGET = registerItem("copper_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
     public static final Item STEEL_NUGGET = registerItem("steel_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
+
+    public static final Item ELECTRUM_NUGGET = registerItem("electrum_nugget",
             new Item(new FabricItemSettings().group(ModItemGroup.ALLOMANCY)));
 
 
