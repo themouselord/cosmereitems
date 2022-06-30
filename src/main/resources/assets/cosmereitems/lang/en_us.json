@@ -14,6 +14,7 @@
   "item.cosmereitems.chromium_ingot": "Chromium Ingot",
   "item.cosmereitems.cadmium_ingot": "Cadmium Ingot",
   "item.cosmereitems.bendalloy_ingot": "Bendalloy Ingot",
+  "item.cosmereitems.zinc_ingot": "Zinc Ingot",
   "item.cosmereitems.brass_nugget": "Brass Nugget",
   "item.cosmereitems.bronze_nugget": "Bronze Nugget",
   "item.cosmereitems.duralumin_nugget": "Duralumin Nugget",
@@ -30,6 +31,16 @@
   "block.cosmereitems.steel_block": "Block Of Steel",
   "block.cosmereitems.tin_block": "Block Of Tin",
   "block.cosmereitems.pewter_block": "Block Of Pewter",
+  "block.cosmereitems.zinc_block": "Block Of Zinc",
+  "block.cosmereitems.brass_block": "Block Of Brass",
+  "block.cosmereitems.bronze_block": "Block Of Bronze",
+  "block.cosmereitems.duralumin_block": "Block Of Duralumin",
+  "block.cosmereitems.aluminum_block": "Block Of Aluminum",
+  "block.cosmereitems.electrum_block": "Block Of Electrum",
+  "block.cosmereitems.nicrosil_block": "Block Of Nicrosil",
+  "block.cosmereitems.chromium_block": "Block Of Chromium",
+  "block.cosmereitems.cadmium_block": "Block Of Cadmium",
+  "block.cosmereitems.bendalloy_block": "Block Of Bendalloy",
 
   "itemGroup.cosmereitems.allomancy": "Allomancy"
 }

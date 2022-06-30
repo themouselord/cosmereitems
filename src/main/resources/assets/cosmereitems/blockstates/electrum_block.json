@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cosmereitems:block/electrum_block" }
+  }
+}

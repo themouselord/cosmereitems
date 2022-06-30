@@ -17,11 +17,40 @@ public class ModBlocks {
     public static final Block TIN_BLOCK = registerBlock("tin_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
 
-
     public static final Block PEWTER_BLOCK = registerBlock("pewter_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
 
+    public static final Block ZINC_BLOCK = registerBlock("zinc_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block BRASS_BLOCK = registerBlock("brass_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block ALUMINUM_BLOCK = registerBlock("aluminum_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block DURALUMIN_BLOCK = registerBlock("duralumin_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block NICROSIL_BLOCK = registerBlock("nicrosil_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block CHROMIUM_BLOCK = registerBlock("chromium_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block CADMIUM_BLOCK = registerBlock("cadmium_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block BENDALLOY_BLOCK = registerBlock("bendalloy_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block BRONZE_BLOCK = registerBlock("bronze_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
     public static final Block STEEL_BLOCK = registerBlock("steel_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
+
+    public static final Block ELECTRUM_BLOCK = registerBlock("electrum_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ALLOMANCY);
 
 
