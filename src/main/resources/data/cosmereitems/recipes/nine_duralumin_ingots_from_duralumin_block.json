@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:duralumin_block"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:duralumin_ingot",
+    "count": 9
+  }
+}

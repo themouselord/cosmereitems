@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:zinc_ingot"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:zinc_nugget",
+    "count": 9
+  }
+}

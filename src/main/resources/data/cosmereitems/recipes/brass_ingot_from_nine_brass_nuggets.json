@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:brass_nugget"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:brass_ingot",
+    "count": 1
+  }
+}

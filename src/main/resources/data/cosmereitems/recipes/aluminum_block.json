@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:aluminum_block",
+    "count": 1
+  }
+}

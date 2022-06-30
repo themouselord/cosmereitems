@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:bendalloy_block"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:bendalloy_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:nicrosil_nugget"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:nicrosil_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cosmereitems:electrum_nugget"
+    }
+  },
+  "result": {
+    "item": "cosmereitems:electrum_ingot",
+    "count": 1
+  }
+}

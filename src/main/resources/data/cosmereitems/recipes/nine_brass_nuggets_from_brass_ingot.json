@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:brass_ingot"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:brass_nugget",
+    "count": 9
+  }
+}

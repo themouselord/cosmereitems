@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:chromium_ingot"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:chromium_nugget",
+    "count": 9
+  }
+}

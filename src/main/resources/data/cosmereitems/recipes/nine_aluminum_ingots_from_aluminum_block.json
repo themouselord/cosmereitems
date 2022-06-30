@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosmereitems:aluminum_block"
+    }
+  ],
+  "result": {
+    "item": "cosmereitems:aluminum_ingot",
+    "count": 9
+  }
+}
