@@ -22,6 +22,9 @@ public class ModItemGroup {
     public static final ItemGroup AWAKENING = FabricItemGroupBuilder.build(
             new Identifier(CosmereItems.MOD_ID,"awakening"),()-> new ItemStack(ModItems.TIN_NUGGET));
 
+    public static final ItemGroup GOD_METALS = FabricItemGroupBuilder.build(
+            new Identifier(CosmereItems.MOD_ID,"god_metals"),()-> new ItemStack(ModItems.TIN_NUGGET));
+
     public static final ItemGroup STORMLIGHT = FabricItemGroupBuilder.build(
             new Identifier(CosmereItems.MOD_ID,"stormlight"),()-> new ItemStack(ModItems.TIN_NUGGET));
 }
