@@ -93,6 +93,54 @@ public class ModItems {
     public static final Item IRON_BRACELET = registerItem("iron_bracelet",
             new Item(new FabricItemSettings().group(ModItemGroup.FERUCHEMY)));
 
+    public static final Item STEEL_SPIKE = registerItem("steel_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item IRON_SPIKE = registerItem("iron_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item PEWTER_SPIKE = registerItem("pewter_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item TIN_SPIKE = registerItem("tin_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item ZINC_SPIKE = registerItem("zinc_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item BRASS_SPIKE = registerItem("brass_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item COPPER_SPIKE = registerItem("copper_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item BRONZE_SPIKE = registerItem("bronze_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item DURALUMIN_SPIKE = registerItem("duralumin_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item ALUMINUM_SPIKE = registerItem("aluminum_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item NICROSIL_SPIKE = registerItem("nicrosil_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item CHROMIUM_SPIKE = registerItem("chromium_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item GOLD_SPIKE = registerItem("gold_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item ELECTRUM_SPIKE = registerItem("electrum_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item CADMIUM_SPIKE = registerItem("cadmium_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
+    public static final Item BENDALLOY_SPIKE = registerItem("bendalloy_spike",
+            new Item(new FabricItemSettings().group(ModItemGroup.HEMALURGY)));
+
 
 
 
